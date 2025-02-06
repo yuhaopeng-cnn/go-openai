@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/yuhaopeng-cnn/go-openai"
+	"github.com/yuhaopeng-cnn/go-openai/internal/test/checks"
 )
 
 func TestUploadBatchFile(t *testing.T) {
